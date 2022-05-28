@@ -7,8 +7,9 @@ let's useful for tests new feature developement android.
 - ViewModel
   - LifeCycle
   - LiveDate
-  - StateFlow: -observable coroutina
-  - Room: Flowable ou LiveData
+  - Flow
+  - StateFlow/SharedFlow
+  - Room: news feature 
 - Injection Dependece DI(Dagger, Hilt, koin...)
 
 - Wait for new updates
