@@ -9,7 +9,9 @@ let's useful for tests new feature developement android.
   - LiveDate
   - Flow
   - StateFlow/SharedFlow
-  - Room: news feature 
 - Injection Dependece DI(Dagger, Hilt, koin...)
+
+- Room: Safer implementation, using manual migrations.
+- Consume API JSON request
 
 - Wait for new updates
