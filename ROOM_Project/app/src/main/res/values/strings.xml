@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="translate">Translate</string>
+    <string name="translate_word">Translate Word</string>
+    <string name="translated_word">Translated Word</string>
+    <string name="word">Word</string>
+    <string name="new_word">New Word</string>
+    <string name="definition">Definition Word</string>
+    <string name="insert_new_word">Insert new word</string>
+    <string name="insert_definition">Insert Definition</string>
+    <string name="insert_word">Insert Word</string>
+    <string name="cancel">Cancel</string>
+</resources>
