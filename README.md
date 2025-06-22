@@ -13,5 +13,6 @@ let's useful for tests new feature developement android.
 
 - Room: Safer implementation, using manual migrations.
 - Consume API JSON request
+- JetPack Compose
 
 - Wait for new updates
